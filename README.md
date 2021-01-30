@@ -9,6 +9,5 @@ $ streamlit run app.py
 
 Or access a deployed version here: https://sax-showcase.herokuapp.com/
 
-Screenshot:
 
 ![screenshot](https://github.com/kjul/sax-streamlit-showcase/blob/main/screenshot.jpg)
