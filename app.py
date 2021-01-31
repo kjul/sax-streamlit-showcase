@@ -26,7 +26,7 @@ sax_cuts = [i * sd + mean for i in cuts]
 sax_cuts.pop(0)
 alphabet = list(string.ascii_lowercase) 
 for i, j in enumerate(sax_cuts):
-    univar_ts["upper bound of " + alphabet.pop(0)] = int(j)
+    univar_ts["upper bound of " + alphabet.pop(0)] = float(j)
 st.dataframe(univar_ts)
 st.line_chart(univar_ts)
 
