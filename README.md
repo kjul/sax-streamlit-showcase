@@ -7,8 +7,8 @@ $ pip install -r requirements.txt
 $ streamlit run app.py
 ```
 
-Or access a deployed version here: https://sax-showcase.herokuapp.com/
-
+Or access a deployed version here: ~~https://sax-showcase.herokuapp.com/~~
+(since heroku deployment was no longer possible with the free account, I had to delete the heroku app)
 
 ![screenshot](https://github.com/kjul/sax-streamlit-showcase/blob/main/screenshot.jpg)
 
